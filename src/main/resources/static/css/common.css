@@ -1,0 +1,12 @@
+input[readonly]
+{
+    background-color: #EAEAEA;
+}
+
+.form-control, .btn , .card , .input-group-addon{
+	border-radius: 0px;
+}
+
+textarea {
+   resize: none;
+}
